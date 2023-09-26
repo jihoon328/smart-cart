@@ -1,6 +1,6 @@
 # smart-cart
 
-개발환경
+개발환경/
 원격 pc
 ubuntu 20.04 
 ros-noetic 

@@ -1,11 +1,11 @@
 # smart-cart
 
-개발환경/
+# 개발환경
 원격 pc
 ubuntu 20.04 
 ros-noetic 
 
-하드웨어
+# 하드웨어
 터틀봇3 
 
 
